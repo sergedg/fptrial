@@ -1,2 +1,3 @@
 # fptrial
-juust testing
+just testing
+sysprint "Hello world"
